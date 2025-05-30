@@ -1,4 +1,4 @@
-﻿# Go Chromedp Scraper
+﻿# Chromedp Scraper
 
 This is a simple hotel data scraper built using Go and [chromedp](https://github.com/chromedp/chromedp).
 
